@@ -4,11 +4,5 @@
 
 <H3>JAVA VERSION 11</H3>
 
-*  Luis Sendra
-
-*  Angel Mascarell
-
-*  Anibal Garcia
-
 Para ver el diagrama de clase pulsar sobre el siguiente enlace:
 https://goo.gl/K3DAwT
